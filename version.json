@@ -1,9 +1,9 @@
 {
-  "version": "2.1.4",
+  "version": "2.1.5",
   "firmware": "https://raw.githubusercontent.com/sscspoke/iot-environment-monitor/main/firmware.bin",
-  "release_date": "2026-07-24",
+  "release_date": "2026-07-26",
   "mandatory": false,
-  "notes": "OTA Engine Improved",
-  "size": 1218368,
-  "md5": "d1a89628a9aff52e0b816d8a5b6c77ec"
+  "notes": "Remote Management & OTA Improved",
+  "size": 1220352,
+  "md5": "38f71c6ebc2dbb283b4066ee871807f3"
 }
