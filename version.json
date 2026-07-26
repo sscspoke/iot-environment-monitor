@@ -1,6 +1,6 @@
 {
   "version": "2.1.4",
-  "firmware": "https://raw.githubusercontent.com/sscspoke/esp32-serverroom-ota/main/firmware.bin",
+  "firmware": "https://raw.githubusercontent.com/sscspoke/iot-environment-monitor/main/firmware.bin",
   "release_date": "2026-07-24",
   "mandatory": false,
   "notes": "OTA Engine Improved",
