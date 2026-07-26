@@ -1,2 +1,2 @@
-# esp32-serverroom-ota
-ESP32 Server Room OTA Firmware
+# iot-environment-monitor-ota
+IoT Environment Monitor OTA Firmware
