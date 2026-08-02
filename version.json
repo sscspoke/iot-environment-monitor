@@ -1,9 +1,9 @@
 {
-  "version": "2.1.5",
+  "version": "2.1.8",
   "firmware": "https://raw.githubusercontent.com/sscspoke/iot-environment-monitor/main/firmware.bin",
-  "release_date": "2026-07-26",
+  "release_date": "2026-08-02",
   "mandatory": false,
-  "notes": "Remote Management & OTA Improved",
-  "size": 1220352,
-  "md5": "38f71c6ebc2dbb283b4066ee871807f3"
+  "notes": "Offset features & CLI passcode",
+  "size": 1223264,
+  "md5": "88ec8e5ec5c52836ebeb8d635ac09c20"
 }
